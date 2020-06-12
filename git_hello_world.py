@@ -1,1 +1,3 @@
-print("This is a git tutorial file")
+print("This is a git tutorial")
+print('This is a test')
+
